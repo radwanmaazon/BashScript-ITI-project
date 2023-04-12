@@ -1,4 +1,4 @@
-﻿\# BashScript-project
+#BashScript-project
 
 This project I do it as a bash script project in ITI.
 
